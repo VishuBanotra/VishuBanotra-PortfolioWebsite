@@ -11,6 +11,7 @@ body {
   max-width: 90%;
   width: 100%;
   margin: 0 auto;
+  padding: 0;
 }
 
 .container-center {
@@ -155,8 +156,8 @@ footer ul {
  padding-inline-start: 0;
  width: 85%;
  margin: 1rem auto;
+ /* padding-inline-start: 2rem; */
  padding: 2rem;
-
 }
 
 .link-project{
